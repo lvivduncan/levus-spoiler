@@ -1,3 +1,4 @@
+// 6-12-2020
 function levusSpoiler(selector, word = "spoiler"){
 
     document.querySelectorAll(selector).forEach(item => {
