@@ -1,0 +1,14 @@
+/* for test */
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+#example{
+    font-family: sans-serif;
+    margin:100px;
+}
+#example p{
+    margin: 0 0 30px
+}
+/* for test */
